@@ -21,7 +21,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/mafiTec/-A-Classification-Algos-Logistic_Regression_Project)
+[In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+
+The classification goal is to predict if the client will subscribe a term deposit (variable y).](https://github.com/mafiTec/-A-Classification-Algos-Logistic_Regression_Project)
 
 <img src="images/log.jpg?raw=true"/>
 
