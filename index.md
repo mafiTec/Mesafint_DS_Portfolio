@@ -55,3 +55,20 @@ any string columns
   - Tuned hyperparameter best score was 0.8586
   - The accuracy of the KNN with K = 17 is 82.26%
   - The accuracy of the NB is 82.26%
+  
+ [K-Means clustering model for State authorities/Policy makers](https://github.com/mafiTec/Clustering-K_Means-Project/blob/main/K_Means%20Project.ipynb)
+ 
+ <img src=“images/closterin_house.PNG” raw=true width=800>
+ 
+<b>Skills used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Sklearn, K-Means clustering
+
+<b>Project objctive: </b> Based on the K-Means clustering model we could give useful insights to the authorities to group the people into respective catagories
+
+<b>Quantifiable Result:</b> Based on the model all were grouped into 3 clusters, so k = 3, which got justified by Schilhoutee score = 0.5259
+
+   - Fitted the data to clustering model
+   - Calculated the number of clusters for the data
+   - Fitted the model with K-Means and Hierarchical clustering
+   - Compared the resluts for both methods
+   - Calculated the accuracy of the model which was 0.5259
+
