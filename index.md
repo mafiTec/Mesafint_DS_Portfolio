@@ -58,7 +58,7 @@ any string columns
   
  [K-Means clustering model for State authorities/Policy makers](https://github.com/mafiTec/Clustering-K_Means-Project/blob/main/K_Means%20Project.ipynb)
  
- <img src=“images/clustering_people.png” raw=true width=800>
+ <img src=“images/clustering_people.png”raw=true width=800>
  
 <b>Skills used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Sklearn, K-Means clustering
 
