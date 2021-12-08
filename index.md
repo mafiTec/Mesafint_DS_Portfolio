@@ -24,6 +24,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Predicting customer subscription for term deposit](https://github.com/mafiTec/-A-Classification-Algos-Logistic_Regression_Project/blob/main/Logistic_Regression_Project.ipynb)
 
 <img src="images/log.jpg?raw=true"/>
+Accuracy of the model :  0.9103823156368908
+
+skills used: sklearn,pandas,numpy,matplotlib, Seaborn, Logistic Regression,
+
+project Description:Using recorded weather forecasts i trained a model which predict the possible amount of customers would be interested in renting a bike for a particular day
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
