@@ -23,7 +23,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Diagnosis of breast cancer using a logistic classifier](https://github.com/mafiTec/-A-Classification-Algos-Logistic_Regression_Project)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/log.jpg?raw=true"/>
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
