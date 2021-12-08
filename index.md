@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Portuguese banking institution.The classification goal is to predict if the client will subscribe a term deposit](https://github.com/mafiTec/-A-Classification-Algos-Logistic_Regression_Project/blob/main/Logistic_Regression_Project.ipynb)
+[Predicting customer subscription for term deposit](https://github.com/mafiTec/-A-Classification-Algos-Logistic_Regression_Project/blob/main/Logistic_Regression_Project.ipynb)
 
 <img src="images/log.jpg?raw=true"/>
 
