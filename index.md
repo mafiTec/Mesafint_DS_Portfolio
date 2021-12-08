@@ -76,16 +76,19 @@ any string columns
 
  <img src="images/Neural-Network-diagram.jpg?raw=true"/>
 
-Skills Used: Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking
-Project Objective: Implementing Deep Neural Network with Keras for handwritting classification and recognition
-Quantifiable Results
-Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
-Load the data
-Initial data indagation
-Initial EDA
-Data Prepping
-Model contruction
-Model eval
-Model eval metrics
-Improved the model
-Improved the depth of model
+<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
+
+<b>Quantifiable Results:</b>
+
+  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Load the data
+  - Initial data indagation
+  - Initial EDA
+  - Data Prepping
+  - Model contruction
+  - Model eval
+  - Model eval metrics
+  - Improved the model
+  - Improved the depth of model
