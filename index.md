@@ -71,7 +71,9 @@ any string columns
    - Fitted the model with K-Means and Hierarchical clustering
    - Compared the resluts for both methods
    - Calculated the accuracy of the model which was 0.5259
-   - 
+   
+ ***
+ 
 [Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/mafiTec/Deep-Neural-Network-with-Keras-for-MNIST-handwritten-classification-and-recognition/blob/main/deep_learning.ipynb)
 
  <img src="images/Neural-Network-diagram.jpg?raw=true"/>
