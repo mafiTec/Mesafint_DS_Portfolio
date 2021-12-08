@@ -34,7 +34,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mafiTec/Classification-Algos-Knn_Nb_Project)
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/orto.jpg?raw=true"/>
 
 - Accuracy 82.26
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
