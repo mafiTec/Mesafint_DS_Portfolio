@@ -74,6 +74,8 @@ any string columns
    - 
 [Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/mafiTec/Deep-Neural-Network-with-Keras-for-MNIST-handwritten-classification-and-recognition/blob/main/deep_learning.ipynb)
 
+ <img src="images/clustering_people.png?raw=true"/>
+
 Skills Used: Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking
 Project Objective: Implementing Deep Neural Network with Keras for handwritting classification and recognition
 Quantifiable Results
