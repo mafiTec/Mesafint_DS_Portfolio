@@ -97,9 +97,9 @@ any string columns
 
  ***
  
-[Apple Stock Price Pridiction](https://github.com/mafiTec/Deep-Neural-Network-with-Keras-for-MNIST-handwritten-classification-and-recognition/blob/main/deep_learning.ipynb)
+[Apple Stock Price Pridiction](https://github.com/mafiTec/Apple_Stock_Price_Prediction/blob/main/Stock_Price_Prediction_using_Machine_Learning.ipynb)
 
- <img src="images/Neural-Network-diagram.jpg?raw=true"/>
+ <img src="stock-price-prediction-using-ML.jpg?raw=true"/>
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 
