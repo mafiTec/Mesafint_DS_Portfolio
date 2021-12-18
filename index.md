@@ -10,7 +10,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <b>Project Objective:</b>Stock price prediction Using Python, & Machin Learing (LSTM. Creat artificial neural network called Long Short Term Memory to predict the feuter price of stock. :</b>
 
-  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
   - Load the data
   - Initial data indagation
   - Initial EDA
