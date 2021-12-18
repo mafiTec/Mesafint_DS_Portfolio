@@ -99,7 +99,7 @@ any string columns
  
 [Apple Stock Price Pridiction](https://github.com/mafiTec/Apple_Stock_Price_Prediction/blob/main/Stock_Price_Prediction_using_Machine_Learning.ipynb)
 
- <img src="apple.jpg?raw=true"/>
+ <img src="images/apple.jpg?raw=true"/>
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, LSTM, Neural Networking, Keras, Tensorflow
 
