@@ -2,6 +2,25 @@
 
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
+[Apple Stock Price Pridiction](https://github.com/mafiTec/Apple_Stock_Price_Prediction/blob/main/Stock_Price_Prediction_using_Machine_Learning.ipynb)
+
+ <img src="images/apple.jpg?raw=true"/>
+
+<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, LSTM, Neural Networking, Keras, Tensorflow
+
+<b>Project Objective:</b>Stock price prediction Using Python, & Machin Learing (LSTM. Creat artificial neural network called Long Short Term Memory to predict the feuter price of stock. :</b>
+
+  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Load the data
+  - Initial data indagation
+  - Initial EDA
+  - Data Prepping
+  - Model contruction
+  - Model eval
+  - Model eval metrics
+  - Improved the model
+  - Improved the depth of model
+
 ***
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mafiTec/Linear_Regression_Project-Seoul-Bike-dataset./blob/main/Seoul_Bike_dataset.ipynb)
