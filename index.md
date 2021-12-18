@@ -24,7 +24,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mafiTec/Linear_Regression_Project-Seoul-Bike-dataset./blob/main/Seoul_Bike_dataset.ipynb)
 
-<img src="images/bick.png?raw=true"/>
+<img src="images/nn.jpg?raw=true"/>
 
 <b>Skills Used:</b> Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Linear Regression
 
