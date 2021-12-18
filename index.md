@@ -60,7 +60,7 @@ any string columns
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mafiTec/Classification-Algos-Knn_Nb_Project/blob/main/1_Knn_Nb_Project.ipynb)
 
-<img src="images/orto.jpg?raw=true"/>
+<img src="images/medical.jpg?raw=true"/>
 
 <b>Skills used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Sklearn, K Nearest Neighbours
 
