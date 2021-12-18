@@ -99,13 +99,11 @@ any string columns
  
 [Apple Stock Price Pridiction](https://github.com/mafiTec/Apple_Stock_Price_Prediction/blob/main/Stock_Price_Prediction_using_Machine_Learning.ipynb)
 
- <img src="stock-price-prediction-using-ML.jpg?raw=true"/>
+ <img src="apple.jpg?raw=true"/>
 
-<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, LSTM, Neural Networking, Keras, Tensorflow
 
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
-
-<b>Quantifiable Results:</b>
+<b>Project Objective:</b>Stock price prediction Using Python, & Machin Learing (LSTM. Creat artificial neural network called Long Short Term Memory to predict the feuter price of stock. :</b>
 
   - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
   - Load the data
