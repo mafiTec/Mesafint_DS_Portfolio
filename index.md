@@ -102,10 +102,9 @@ any string columns
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, LSTM, Neural Networking, Keras, Tensorflow
 
-<b>Project Objective:</b>Stock price prediction Using Python, & Machin Learing (LSTM. Creat artificial neural network called Long Short Term Memory to predict the feuter price of stock. :</b>
+<b>Project Objective:</b>Stock price prediction Using Python, & Machin Learing (LSTM. Creat artificial neural network called Long Short Term Memory to predict the feuter price of stock:</b>
 
-  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
-  - Load the data
+  
   - Initial data indagation
   - Initial EDA
   - Data Prepping
