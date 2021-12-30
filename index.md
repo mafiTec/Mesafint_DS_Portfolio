@@ -45,8 +45,6 @@ any string columns
 
 <b>Skills used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Sklearn, K Nearest Neighbours
 
-<b>Project objctive:</b> In this project the idea is to used logistic regression to predict if the client will subscrebed a term deposit or not by using data releted a marketing company(phones calls) of a portugues bank institution BPI from UCI.
-
 <b>Quantifiable Result:</b> Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters and got accuracy of 82.26 % for KNN and 82.26 % for NB
 
   - Compared predictive performance by fitting a Naive Bayes model to the data
